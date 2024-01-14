@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: 2023-04-18
+img: Spice Rack.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: April 2023
+client: McMaster Engineering Showcase 2023 
+category: Python, Autodesk, Raspberry Pi
+description: As the year-end final project, my team was tasked with designing a solution to improve the daily lives of visually impaired clients. We wanted to design a device that would simplify their process of identifying spices while cooking, so we created the “Auditory Spice Rack”, a spice shelf that delivers an audio cue of the name of the spice container that is taken out. Our final design was a prototype consisting of one shelf space, a mini-speaker, and a Raspberry Pi to determine the specific spice being taken.
 ---
