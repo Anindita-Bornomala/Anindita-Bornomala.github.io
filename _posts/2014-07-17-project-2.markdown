@@ -6,6 +6,6 @@ img: Recycling System.png
 alt: image-alt
 project-date: January 2023
 client: Start Bootstrap
-category: Python, Visual Studio Code, Quanser Interactive Labs
+category: Python, VS Code, Quanser Labs
 description: This project aimed to design a simulation of a recycling sorting plant that transports sorted containers of unique material (plastic, metal, paper) and types (clean, dirty). In charge of the programming aspect of the simulation, I used Python to develop five functions for the Quanser robot (Q-bot) to sort containers: dispense, load, transfer, deposit, and return_home. Afterwards, the program was tested in a physical environment with an actual Q-bot, which succeeded in transporting a few actual containers given a specific distance.
 ---
